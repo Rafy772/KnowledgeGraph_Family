@@ -1,4 +1,4 @@
-Ekstraksi Otomatis dan Analisis Jaringan Kekerabatan Anggota DPR
+Judul: Ekstraksi Otomatis dan Analisis Jaringan Kekerabatan Anggota DPR
 
 EAS
 Mata Kuliah: Topik dalam Knowledge Graphs
